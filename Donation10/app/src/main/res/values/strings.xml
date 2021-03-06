@@ -4,4 +4,9 @@
     <string name="donateTitle">Welcome Homer</string>
     <string name="donateSubtitle">Please Give Generously</string>
     <string name="donateButton">Donate</string>
+    <string name="payPal">PayPal</string>
+    <string name="direct">Direct</string>
+    <string name="amount">Amount</string>
+    <string name="total">Total so Far</string>
+    <string name="totalSoFar">$ Total</string>
 </resources>
